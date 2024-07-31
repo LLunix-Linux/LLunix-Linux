@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LLunix-Linux
-- 👀 I’m interested in HTML
-- 🌱 I’m currently learning HTML Snake
+- 👀 I’m interested in HTML and Javascript
 - ⚡ Fun fact: I am 11 years old! and I am using Linux
 
 <!---
